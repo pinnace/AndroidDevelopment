@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Forex Risk Management Tools</string>
+    <string name="activity_calculator">Calculator</string>
+    <string name="market_price">Market Price</string>
+    <string name="market_risk">%Risk</string>
+    <string name="stoploss_pips">Stoploss (in pips)</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="activity_result">Result</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_data">Data</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="lot_size">Lot Size</string>
+    <string name="title_activity_account_settings">AccountSettings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
